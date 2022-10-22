@@ -1,3 +1,5 @@
-### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ShineYull.ShineYull&left_color=green&right_color=red)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Here is Shine 👋
+  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-00B0FF?style=flat-square&logo=docker&logoColor=white) ![Opengl](https://img.shields.io/badge/-Opengl-00AACC?style=flat-square&logo=Opengl&logoColor=white) ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-4F4F4F?style=flat-square&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![C](https://img.shields.io/badge/-C-00598A?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00598A?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-FFA800?style=flat-square&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-9900FF?style=flat-square&logo=c-sharp&logoColor=white) ![LUA](https://img.shields.io/badge/-Lua-0009FF?style=flat-square&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54) ![TS](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShineYull.ShineYull&left_color=green&right_color=red)  
