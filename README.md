@@ -18,7 +18,8 @@
 
 * [EasyEngine](https://github.com/ShineYull/EasyEngine) project author.
 * [EasyLua](https://github.com/ShineYull/EasyLua) project author.
-  
+* [S3c2440_Bootload](https://github.com/ShineYull/S3c2440_Bootload) project author.
+
 ---
   
 <p align="center">
