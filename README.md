@@ -27,9 +27,6 @@
   
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShineYull&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
 </p>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ShineYull&theme=github"/>
-</p>
   
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ShineYull.ShineYull&left_color=green&right_color=red"/>
