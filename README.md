@@ -1,8 +1,8 @@
 # Hello there 👋
 
-![image](./icons/header_.png)
-
 <p align="center">
+<img src="./icons/header_.png"></img>
+<a href="README.md">中文</a> | English</br>
 <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=Cpp+%7C+Python+%7C+Rust+%7C+Go+Developer"></img>
 </p>
 
