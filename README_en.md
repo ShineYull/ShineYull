@@ -19,6 +19,8 @@
 * [EasyEngine](https://github.com/ShineYull/EasyEngine) project author.
 * [EasyLua](https://github.com/ShineYull/EasyLua) project author.
 * [S3c2440_Bootload](https://github.com/ShineYull/S3c2440_Bootload) project author.
+* [hexo-qexo-editor](https://qexo-editor.shineyu.cn/) Qexo magic modified tutorial collection website.
+* [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Dedicated backend for the Acrylic blog theme.
 
 ---
   
