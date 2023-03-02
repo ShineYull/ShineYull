@@ -20,6 +20,7 @@
 * [hexo-qexo-editor](https://github.com/ShineYull/hexo-qexo-editor) Qexo魔改教程集合站.
 * [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Acrylic博客主题的专用后端.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
+* [Blog-Server](https://github.com/ShineYull/Blog-Server) 一个基于qexo的魔改博客后端.
 
 ---
   
