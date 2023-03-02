@@ -22,7 +22,6 @@
 * [hexo-qexo-editor](https://github.com/ShineYull/hexo-qexo-editor) Qexo magic modified tutorial collection website.
 * [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Dedicated backend for the Acrylic blog theme.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) My development blog, which records my project development log and interesting stories in development.
-* [Blog-Server](https://github.com/ShineYull/Blog-Server) A qexo based magic blog back end.
 
 ---
   
