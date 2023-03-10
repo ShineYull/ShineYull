@@ -21,6 +21,11 @@
 * [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Acrylic博客主题的专用后端.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
 
+### 我深度参与开发的项目
+
+* [Hexo-Theme-Acrylic](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic) Acrylic博客主题.
+* [sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) Stable Diffusion Webui 的视频/动画生成插件.
+
 ---
   
 <p align="center">
