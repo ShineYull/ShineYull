@@ -23,6 +23,11 @@
 * [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Dedicated backend for the Acrylic blog theme.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) My development blog, which records my project development log and interesting stories in development.
 
+### Projects I am deeply involved in
+
+* [Hexo-Theme-Acrylic](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic) Acrylic Blog Theme.
+* [sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) Video/animation generation plugin for Stable Diffusion Webui.
+
 ---
   
 <p align="center">
