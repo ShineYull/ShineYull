@@ -22,6 +22,7 @@
 * [hexo-qexo-editor](https://github.com/ShineYull/hexo-qexo-editor) Qexo magic modified tutorial collection website.
 * [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Dedicated backend for the Acrylic blog theme.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) My development blog, which records my project development log and interesting stories in development.
+* [ai-docs](https://github.com/ShineYull/ai-docs) AI creation tutorial collection station.
 
 ### Projects I am deeply involved in
 
