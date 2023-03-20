@@ -14,11 +14,15 @@
 
 ### 我在维护的项目
 
+* [Ai-Create](https://github.com/ShineYull/Ai-Create) AI创作专栏衍生的AI创作项目，为AI创作爱好者提供更好的创作环境.
+* [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Acrylic博客主题的专用后端.
+
+### 我的项目
+
 * [EasyEngine](https://github.com/ShineYull/EasyEngine) 游戏引擎.
 * [EasyLua](https://github.com/ShineYull/EasyLua) 复刻lua语言.
 * [S3c2440_Bootload](https://github.com/ShineYull/S3c2440_Bootload) 引导并启动内核系统.
 * [hexo-qexo-editor](https://github.com/ShineYull/hexo-qexo-editor) Qexo魔改教程集合站.
-* [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Acrylic博客主题的专用后端.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
 * [ai-docs](https://github.com/ShineYull/ai-docs) AI创作的教程集合站。
 
