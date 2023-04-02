@@ -26,7 +26,7 @@
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) My development blog, which records my project development log and interesting stories in development.
 * [ai-docs](https://github.com/ShineYull/ai-docs) AI creation tutorial collection station.
 
-### Projects I am deeply involved in
+### Projects I have participated in
 
 * [Hexo-Theme-Acrylic](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic) Acrylic Blog Theme.
 * [sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) Video/animation generation plugin for Stable Diffusion Webui.
