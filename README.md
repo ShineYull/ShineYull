@@ -26,7 +26,7 @@
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
 * [ai-docs](https://github.com/ShineYull/ai-docs) AI创作的教程集合站。
 
-### 我深度参与开发的项目
+### 我参与开发的项目
 
 * [Hexo-Theme-Acrylic](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic) Acrylic博客主题.
 * [sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) Stable Diffusion Webui 的视频/动画生成插件.
