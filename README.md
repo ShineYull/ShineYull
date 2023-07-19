@@ -25,6 +25,7 @@
 * [hexo-qexo-editor](https://github.com/ShineYull/hexo-qexo-editor) Qexo魔改教程集合站.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
 * [ai-docs](https://github.com/ShineYull/ai-docs) AI创作的教程集合站。
+* [Easy-Ai-Create](https://github.com/ShineYull/Easy-Ai-Create)
 
 ### 我参与开发的项目
 
