@@ -25,6 +25,7 @@
 * [hexo-qexo-editor](https://github.com/ShineYull/hexo-qexo-editor) Qexo magic modified tutorial collection website.
 * [Project-Blog](https://github.com/ShineYull/Project-Blog) My development blog, which records my project development log and interesting stories in development.
 * [ai-docs](https://github.com/ShineYull/ai-docs) AI creation tutorial collection station.
+* [Easy-Ai-Create](https://github.com/ShineYull/Easy-Ai-Create) A project derived from the AI Creation column to provide an AI creation platform.
 
 ### Projects I have participated in
 
