@@ -19,6 +19,7 @@
 
 ### My Projects
 
+* [BlogGame](https://github.com/ShineYull/BlogGame-Docs) Documentation website for independent game blogs, which contains everything about independent game blogs.
 * [EasyEngine](https://github.com/ShineYull/EasyEngine) project author.
 * [EasyLua](https://github.com/ShineYull/EasyLua) project author.
 * [S3c2440_Bootload](https://github.com/ShineYull/S3c2440_Bootload) project author.

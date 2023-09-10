@@ -19,6 +19,7 @@
 
 ### 我的项目
 
+* [BlogGame](https://github.com/ShineYull/BlogGame-Docs) 独立游戏博客的文档网站，这里包含了独立游戏博客的一切内容.
 * [EasyEngine](https://github.com/ShineYull/EasyEngine) 游戏引擎.
 * [EasyLua](https://github.com/ShineYull/EasyLua) 复刻lua语言.
 * [S3c2440_Bootload](https://github.com/ShineYull/S3c2440_Bootload) 引导并启动内核系统.
