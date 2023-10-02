@@ -8,30 +8,14 @@
 
 ### 我是Shine
 
-* 来自中国广东 🌱🌱🌱
-* 目前在深圳 🔰🔰🔰
 * 一个狂热的开源爱好者 🚀🚀🚀
+* 行走在经营自己，运营自己的路上 🌱🌱🌱
+* 希望我的开源内容对你有帮助🔰🔰🔰
 
 ### 我在维护的项目
 
-* [Ai-Create](https://github.com/ShineYull/Ai-Create) AI创作专栏衍生的AI创作项目，为AI创作爱好者提供更好的创作环境.
-* [Hexo-Theme-Acrylic-Server](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) Acrylic博客主题的专用后端.
-
-### 我的项目
-
-* [BlogGame-Docs](https://github.com/ShineYull/BlogGame-Docs) 独立游戏博客的文档网站，这里包含了独立游戏博客的一切内容.
-* [EasyEngine](https://github.com/ShineYull/EasyEngine) 游戏引擎.
-* [EasyLua](https://github.com/ShineYull/EasyLua) 复刻lua语言.
-* [S3c2440_Bootload](https://github.com/ShineYull/S3c2440_Bootload) 引导并启动内核系统.
-* [hexo-qexo-editor](https://github.com/ShineYull/hexo-qexo-editor) Qexo魔改教程集合站.
-* [Project-Blog](https://github.com/ShineYull/Project-Blog) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
-* [ai-docs](https://github.com/ShineYull/ai-docs) AI创作的教程集合站。
-* [Easy-Ai-Create](https://github.com/ShineYull/Easy-Ai-Create) AI创作专栏衍生的一个项目，提供AI创作平台。
-
-### 我参与开发的项目
-
-* [Hexo-Theme-Acrylic](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic) Acrylic博客主题.
-* [sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) Stable Diffusion Webui 的视频/动画生成插件.
+* [Shine个人博客](https://blog.shineyu.cn) 关于Shine的个人博客。
+* [独立游戏博客](https://indie-games-blog.shineyu.cn/) 关于Shine的独立游戏博客。
 
 ---
   
@@ -39,8 +23,4 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShineYull&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,JavaScript,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
   
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShineYull&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
-</p>
-  
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=ShineYull.ShineYull&left_color=green&right_color=red"/>
 </p>
