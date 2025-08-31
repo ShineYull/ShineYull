@@ -14,8 +14,7 @@
 
 ### 我在维护的项目
 
-* [Shine个人博客](https://blog.shineyu.cn) 关于Shine的个人博客。
-* [独立游戏博客](https://indie-games-blog.shineyu.cn/) 关于Shine的独立游戏博客。
+...
 
 ---
   
