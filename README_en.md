@@ -14,8 +14,7 @@
 
 ### I'm work for
 
-* [Shine's Blog](https://blog.shineyu.cn) Personal blog about Shine.
-* [Indie Games Blog](https://indie-games-blog.shineyu.cn/) An indie game blog about Shine.
+...
 
 ---
   
